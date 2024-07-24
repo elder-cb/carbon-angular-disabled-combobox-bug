@@ -19,7 +19,7 @@
     "@angular/platform-browser-dynamic": "^18.1.0",
     "@angular/router": "^18.1.0",
     "@carbon/styles": "^1.61.0",
-    "carbon-components-angular": "^5.28.3",
+    "carbon-components-angular": "file:carbon-components-angular-v5.24.1-fix-combobox.tgz",
     "rxjs": "~7.8.0",
     "tslib": "^2.3.0",
     "zone.js": "~0.14.3"
